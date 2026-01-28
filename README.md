@@ -8,7 +8,7 @@ A modern web-based interactive C programming learning platform with games, tutor
 
 ## 🎯 Live Demo
 
-[Live Demo Link](#) *(Add your deployment link here)*
+[[Live Demo Link](#) *(Add your deployment link here)*](https://c-playground-web-edition.vercel.app/)
 
 ## 📖 About This Project
 
