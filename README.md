@@ -12,7 +12,7 @@ A modern web-based interactive C programming learning platform with games, tutor
 
 ## 📖 About This Project
 
-**CPlayground Web Edition** is a complete rewrite of my original C-based desktop application into a modern web platform. The original C version (available in [another repository](https://github.com/yourusername/cplayground-c)) was a command-line application that provided:
+**CPlayground Web Edition** is a complete rewrite of my original C-based desktop application into a modern web platform. The original C version (available in [another repository](https://github.com/Alaa-Younsi/CPlayground)) was a command-line application that provided:
 
 - User authentication with SHA-256 hashing
 - C programming tutorials
@@ -247,28 +247,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS**: For making styling enjoyable
 - **React & TypeScript Communities**: For amazing tools and documentation
 
-## 📞 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/cplayground-web](https://github.com/yourusername/cplayground-web)
-
 ## 🌟 Show Your Support
 
 Give a ⭐️ if this project helped you!
 
 ---
 
-**Built with ❤️ by [Your Name]**  
+**Built with ❤️ by [Alaa Younsi]**  
 *Transforming C code into a modern web experience*
 
 ---
 
 ## 🔗 Related Projects
 
-- **[CPlayground (Original C Version)](https://github.com/yourusername/cplayground-c)** - The original terminal-based C application
-- **[CPlayground API](https://github.com/yourusername/cplayground-api)** - Backend API service (if applicable)
-- **[CPlayground Mobile](https://github.com/yourusername/cplayground-mobile)** - Mobile application (planned)
+- **[CPlayground (Original C Version)](https://github.com/Alaa-Younsi/CPlayground)** - The original terminal-based C application
 
 ## 🚧 Roadmap
 
