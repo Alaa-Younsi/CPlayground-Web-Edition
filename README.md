@@ -8,13 +8,13 @@
 
 A modern web-based interactive C programming learning platform with games, tutorials, calculators, and user management. This is the web version of the original C desktop application, rebuilt with modern web technologies.
 
-![Homepage](screenshot1.png)
-![Services Section](screenshot2.png)
-![Blog Section](screenshot3.png)
-![Homepage](screenshot4.png)
-![Services Section](screenshot5.png)
-![Homepage](screenshot6.png)
-![Services Section](screenshot7.png)
+![Homepage](./screenshots/screenshot1.png)
+![Services Section](./screenshots/screenshot2.png)
+![Blog Section](./screenshots/screenshot3.png)
+![Homepage](./screenshots/screenshot4.png)
+![Services Section](./screenshots/screenshot5.png)
+![Homepage](./screenshots/screenshot6.png)
+![Services Section](./screenshots/screenshot7.png)
 
 ## 📖 About This Project
 
