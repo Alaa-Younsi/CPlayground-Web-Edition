@@ -1,14 +1,18 @@
 # 🚀 CPlayground - Web Edition
 
+## 🎯 Live Demo
+
+[c-playground-web-edition.vercel.app](https://c-playground-web-edition.vercel.app/)
+
 ## Alaa Younsi's Personal Project
 
 A modern web-based interactive C programming learning platform with games, tutorials, calculators, and user management. This is the web version of the original C desktop application, rebuilt with modern web technologies.
 
-![CPlayground Screenshot](https://via.placeholder.com/800x400/0a0e14/00ff9d?text=CPlayground+Web+Edition)
-
-## 🎯 Live Demo
-
-[[Live Demo Link](https://c-playground-web-edition.vercel.app/)
+![Homepage](screenshot1.png)
+![Services Section](screenshot2.png)
+![Blog Section](screenshot3.png)
+![Homepage](screenshot4.png)
+![Services Section](screenshot5.png)
 
 ## 📖 About This Project
 
